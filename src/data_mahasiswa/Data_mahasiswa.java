@@ -16,6 +16,7 @@ public class Data_mahasiswa {
     /**
      * @param args the command line arguments
      */
+    //viki
     public static void main(String[] args) {
         
         HttpResponse<String> response = Unirest.post("https://siakad.itmnganjuk.ac.id/api/select")
